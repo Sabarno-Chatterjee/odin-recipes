@@ -1,11 +1,17 @@
+body {
+  background-color: black;
+}
+
 .dish {
   text-align: center;
   font-family: "Caveat", cursive;
-  font-size: 2rem;
+  font-size: 2.5rem;
+  color: white;
 }
 
 .text {
-  font-size: 1rem;
+  font-size: 1.3rem;
+  color: white;
 }
 
 .center {
@@ -13,4 +19,5 @@
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  border: 5px solid white;
 }
