@@ -2,13 +2,7 @@ body {
   background-color: black;
 }
 
-.item {
-  height: 300px;
-  width: 350px;
-  border: 2px solid white;
-}
-.dish,
-.heading {
+.dish {
   text-align: center;
   font-family: "Caveat", cursive;
   font-size: 2.5rem;

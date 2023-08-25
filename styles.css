@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+}
+
+.heading {
+  text-align: center;
+  font-family: "Caveat", cursive;
+  font-size: 3rem;
+  color: white;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+.text {
+  font-size: 1.3rem;
+  color: white;
+}
+
+.item {
+  height: 400px;
+  width: 650px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  border: 2px solid white;
+}
