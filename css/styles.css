@@ -1,5 +1,11 @@
 .dish {
   text-align: center;
+  font-family: "Caveat", cursive;
+  font-size: 2rem;
+}
+
+.text {
+  font-size: 1rem;
 }
 
 .center {
