@@ -40,3 +40,7 @@ p {
 .description-box {
   flex: 2; /* Grow to occupy more space than the image */
 }
+
+.description-box > p {
+  text-align: justify;
+}
