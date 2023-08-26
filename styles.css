@@ -44,3 +44,8 @@ p {
 .description-box > p {
   text-align: justify;
 }
+
+.name {
+  color: red;
+  font-size: 2rem;
+}
