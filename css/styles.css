@@ -9,6 +9,11 @@ body {
   color: red;
 }
 
+h2,
+h3 {
+  color: red;
+}
+
 .text {
   font-size: 1.3rem;
   color: white;
