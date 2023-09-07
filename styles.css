@@ -48,4 +48,5 @@ p {
 .name {
   color: yellow;
   font-size: 2rem;
+  font-style: italic;
 }
